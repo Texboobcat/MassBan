@@ -1,0 +1,8 @@
+main: me.texbobcat.mysql.MysqlMain
+name: Mysql
+version: 1.0
+author: Texbobcat
+
+command:
+   Hello:
+   
